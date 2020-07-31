@@ -1,56 +1,101 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-2.jpg"
-categories: 
-  - "Philosophy"
+title: 'Destination: Seychelles'
+date: 2019-05-12T08:46:10+00:00
+description: ''
+type: featured
+image: images/featured-post/post-2.jpg
+categories:
+- Life
+- Food
+- Travel
 tags:
-  - "Philosophy"
-  - "Photos"
+- Photos
+
 ---
+Seychelles a land of pristine beauty and a luxury destination which lies in the western part of the Indian Ocean. An archipelago of 115 islands, the island nation is known for its exquisite natural beauty, spectacular beaches, and luxury resorts. It is home to the world's oldest ocean islands and largest raised coral atoll.
 
+The island is blessed with a warm climate throughout the year making it a hotbed for water activities such as diving and snorkelling in its clear turquoise waters. It is also a hub for ecotourism and endemic wildlife spotting offering an incredible variety of flora and fauna with some of the most exotic trees, birds and marine life.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+The entire population is concentrated in the inner part region which consists of three islands of Mahe, Praslin and La Digue. Together these islands form the economic, cultural and tourism hub of the country. Do not miss out on the chance of exploring the Seychellois Creole cuisine and the country's capital Victoria, a city that can be explored entirely on foot in less than a day.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Due to its remote location, the island nation is unlike any other island getaway. This tropical paradise provides an aura of seclusion marked by soft white powdery sands and spectacular turquoise waters.
 
+INTERESTING FACTS ABOUT SEYCHELLES
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+Name: Republic of Seychelles
 
+Name Origin: Jean Moreau de Sechelles (King Louis XV's finance minister)
 
-![](../images/post-img.jpg)
+First Seychelles explorer: Joao de Nova (1501) discovers the Farquhar Islands
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Population: Roughly 97,871 people (2019) & 90% of the population live on the main island of Mahe
 
+Total island: 115 Islands (42 Granite island & 73 Coral islands ) a total of 455 km² (175 sq. miles) in size
 
+Climate: Tropical with constant temperature and high humidity.
+
+Main seasons: Northwest Monsoon from December to March & South east monsoon from May to October
+
+Time Zone: GMT/UTC +4
+
+Calling Code: +248 or (00248)
+
+Language: Seychellois Creole, English, French,
+
+National Currency: 1 Seychellois Rupee=100cents
+
+National Day: 18 June
+
+National Flower: Orkid payanke
+
+National Tree: Coco-de-Mer Palm
+
+National Animal: Giant Tortoise
+
+National Bird: Black Parrot
+
+National Motto: "Finis Coronat Opus" ("The End Crowns the Work")
+
+Seychelles Fauna: 13 species of amphibians, 30 reptiles, 220 bird species and more than 1,000 species of invertebrates
+
+Seychelles Endangered birds: Seychelles paradise flycatcher, Seychelles warbler, Seychelles magpie robin, Seychelles white eye, Seychelles scops owl, Seychelles black parrot
+
+Indian Ocean Flightless Bird: White-Throated Rail from Aldabra Island.
+
+Agricultural Products: Coconuts, cinnamon, sweet potatoes, Cassava (tapioca) and exotic fruits.
+
+Food and dishes: Coconut Curry, Ladob, Salted Fish, Shark chutney, Grilled Fish or Octopus etc
+
+Coral reef area: around 600,000 km² (230,000 sq. miles)
+
+Highest mountain: Morne Seychellois', with 905m or 2,969ft.
+
+Seychelles Pirate Hideout: Anse Forbans (Pirate's Cove) on Mahe and Cote d'Or on Praslin. It is believed that famous pirate Olivier Levasseur hid a treasure worth more than $160,000 that remains unfound.
+
+Forest Conservation: Around 50% of its landmass is occupied by national parks and reserves
+
+Marine Conservation: By 2020, 410,000 sq km or 30 per cent of Seychelles' waters are Marine Protected Areas
+
+UNESCO world heritage sites: Vallee de Mai (Praslin island) and the Aldabra atoll
+
+Earth Rarest Trees in Seychelles: Jellyfish trees in Mahe island & Coco-de-Mer palm in Praslin island
+
+World's second-largest coral atol: Aldabra atoll (Also World largest raised coral atol) Area: 155.4 km²
+
+First marine park in the Indian Ocean: The Sainte Anne Marine National Park, 1973.
+
+Oldest oceanic islands on earth: Seychelles' granitic islands
+
+Smallest capital in the world: Victoria, The capital of Seychelles.
+
+Largest seed in the world: Coco de mer seeds or Love nut in Praslin island (about 20 Kgs)
+
+Largest arthropod in the world: Coconut crab (Robber crab or the palm thief) in Seychelles
+
+World largest colonies of Lesser Noddy Seabird: Aride Island.
+
+World largest Tortoises Population: Aldabra Atoll 152,000+ giant tortoises (that's more tortoises than there are humans in Seychelles!)
+
+World's heaviest land tortoise: Esmeralda, he's a guy, 363 Kgs, 170 years old living in Bird Island
+
+Are you looking forward to visiting Seychelles soon, you need a trusted and safe car rental company that goes out of the way to ensure your safety and comfort throughout your stay in the island. We recommend Papa car rental a renowned [car rental in Seychelles](https://papacarrental.com/) known for trust, comfort and economic.
