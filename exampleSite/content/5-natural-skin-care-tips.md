@@ -2,7 +2,6 @@
 categories = []
 date = 2020-05-10T23:00:00Z
 description = "If you are looking some natural skin care tips, you have landed on the right page."
-draft = true
 image = "/images/hero-1.jpg"
 tags = ["Beauty", "Skin", "Tips"]
 title = "5 natural skin care tips"
