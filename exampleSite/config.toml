@@ -15,12 +15,12 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+address = "21 Parr St, London, GWM5, UK"
+author = "BEHF"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = ""
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2020 Best Everyday Health and Fitness"
 description = "This is meta description"
 email = "exmaple@ymail.com"
 google_analitycs_id = "UA-158247351-1"
