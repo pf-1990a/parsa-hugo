@@ -5,7 +5,7 @@ description = "If you are looking some natural skin care tips, you have landed o
 image = "/images/hero-1.jpg"
 tags = ["Beauty", "Skin", "Tips"]
 title = "5 natural skin care tips"
-type = "post"
+type = "featured"
 
 +++
 Everyone wants an acne-free flawless skin. If you are looking some natural skin care tips, you have landed on the right page. The beauty secrets revealed in this article will help you fix your skin care issues so you can get a beautiful skin naturally. Read on to find out more.
