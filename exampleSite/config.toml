@@ -5,13 +5,17 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Best Everyday Health and Fitness"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+name = "Health"
+url = "/health"
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
