@@ -6,19 +6,19 @@ theme = "parsa-hugo"
 title = "Best Everyday Health and Fitness"
 [[menu.main]]
 name = "Life"
-url = "/life"
+url = "/categories/life"
 weight = 4
 [[menu.main]]
 name = "Travel"
-url = "/travel"
+url = "/categories/travel"
 weight = 3
 [[menu.main]]
 name = "Food"
-url = "/food"
+url = "/categories/food"
 weight = 2
 [[menu.main]]
 name = "Health"
-url = "/health"
+url = "/categories/health"
 weight = 1
 [[menu.main]]
 URL = "contact"
