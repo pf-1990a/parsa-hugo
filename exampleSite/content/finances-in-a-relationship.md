@@ -2,7 +2,6 @@
 categories = ["Health", "Life"]
 date = 2020-01-07T00:00:00Z
 description = "Turns out that \"coupling\" doesn’t just mean \"pairing\" in the traditional sense..."
-draft = true
 image = "/images/h1-1.jpg"
 tags = ["Money", "Relationships", "Control", "Work"]
 title = "Finances in a relationship"
