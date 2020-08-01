@@ -854,3 +854,7 @@ blockquote {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+.logo {
+  max-width: 70px !important;
+}
