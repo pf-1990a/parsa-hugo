@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Health"]
 date = 2020-05-10T23:00:00Z
 description = "If you are looking some natural skin care tips, you have landed on the right page."
 image = "/images/pexels-aleksandar-pasaric-2464535.jpg"
