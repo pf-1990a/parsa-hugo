@@ -1,0 +1,20 @@
++++
+categories = ["Life"]
+date = 2019-08-31T23:00:00Z
+description = ""
+image = "/images/hero9-1.jpg"
+tags = ["Study", "Education", "Learning"]
+title = "Technical education"
+type = "post"
+
++++
+It doesn’t take a college degree to understand that a four-year education may not be the end-all and be-all it once was, according to a new survey of U.S. high school students. With rising costs for higher education, and the way it equates to a career, more high school students say costs will be a "deciding factor in which college they attend or whether they end up going at all," according to the Washington D.C.-based nonprofit College Savings Foundation.The survey, which is in its 10th year, found that of the 500 students polled, this year saw the highest percentage (55 percent) say they are thinking about technical schools and career schools in the same way they look at traditional universities.This is good news for technical schools (most notably transportation technology and repair), that to date have had trouble attracting students through their doors."There is more computer code in today’s cars than there was used to put a man on the moon," says Jennifer Maher, chief executive officer of the TechForce Foundation, a nonprofit organization that supports students through their education into successful careers as professional technicians.
+
+  
+"These are skilled, well-paying, technical jobs."To put this into perspective, according to Motor Authority, a Ford GT has more than 10 million lines of code and the new Ford F150 pickup has more than 150 million lines of code. Compare that to the shuttle’s primary flight software, which contains approximately 400,000 lines of code, and it becomes easy to see the necessity of skilled technicians and the job security the industry represents.  
+According to data from the 2020 AutoCare FactBook, the auto care industry added approximately 41,500 jobs in 2018, and automotive repair and maintenance showed the greatest increase in average hourly wages among technician jobs from 2009 to 2018.More good news: The demand for skilled technicians continues to rise as older technicians retire. Additionally, those numbers increase as technicians move into other industries, and new positions open up. To this point, the Bureau of Labor Statistics predicts that the replacement rate plus the growth rate will translate to 78,200 per year from 2016 to 2026.TechForce’s publicity campaign, "Because I’m a Tech," encourages technicians to share their stories about how they have succeeded in skilled technician careers. Some of their comments: "I bought my first house at age 27;" "I get to do something I love every day;".
+
+  
+Technician jobs can be an ideal alternative for many nontraditional learners who can think outside the box, and who enjoy working with their hands and solving problems. Plus, there’s the fact that technicians can learn their skills as soon as two years after high school and put them to use right away without the time and expense of a traditional, four-year college degree.
+
+TechForce’s FutureTech Roadmap to the transportation technology career highlights some of the traits that make for well-paid, successful technicians and how parents and students can identify these valuable skills.Middle School: Sixth graders to eighth graders who like to tinker; those who fix the wobbly bike wheel or design the winning car in the scouts’ soapbox derby, may benefit from a technical school rather than a traditional college education.High School: The high schooler who helps design and build the sets for the school play may be the next great technician. Also, students with diagnoses of ADHD who learn best with hands-on lessons and struggle with lengthy, desk-bound assignments are ideally suited to many technician careers.Post-Secondary School: High school graduates with a strong interest in science and technology can launch fulfilling careers with training at an ASE-certified program. The more certifications and degrees earned, the higher the tech’s earning potential from future employers.
