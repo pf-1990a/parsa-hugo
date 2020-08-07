@@ -4,7 +4,7 @@ date = 2020-03-29T21:00:00Z
 description = ""
 image = "/images/hero5a-1.jpg"
 tags = ["Science", "Skin", "Excema"]
-title = "Top tips to reduce asthma"
+title = "Top tips to reduce excema"
 type = "post"
 
 +++
