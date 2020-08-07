@@ -2,7 +2,6 @@
 categories = ["Health"]
 date = 2020-06-30T23:00:00Z
 description = ""
-draft = true
 image = "/images/heroa1-1.jpg"
 tags = ["Excema", "Science", "Skin"]
 title = "The causes and triggers of eczema"
