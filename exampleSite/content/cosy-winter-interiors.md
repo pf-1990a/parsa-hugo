@@ -27,3 +27,5 @@ Whilst every room in the house could benefit from a winter make over, the bedroo
 In the bathroom, renew your towels. Opt for extra thick and fluffy oversized bath sheets in colours to compliment or contrast your decor. Very soft, weighty, high quality organic cotton towels will add the desired finishing touch to your bathroom without compromising on comfort.
 
 Here again, fragrant candles make a wonderful addition. After all, nothing beats a long hot soak with essential oils, soft music and candlelight. Nothing that is, except stepping out of the bath into a beautifully warm and snugly bath towel, straight off the radiator.
+
+Enjoy Winter!
