@@ -5,7 +5,7 @@ description = ""
 image = "/images/pexels-taryn-elliott-4231477.jpg"
 tags = ["Cosy", "Interior", "Architecture", "Decorating"]
 title = "Cosy winter interiors"
-type = "post"
+type = "featured"
 
 +++
 Traditionally winter is a time for snuggling up at home, a time for relaxing in front of warm open fires, entertaining close personal friends and having people round for dinner. These activities are much more appealing right now than going out and facing the elements.
