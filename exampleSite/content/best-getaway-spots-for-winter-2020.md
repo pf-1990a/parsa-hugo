@@ -2,7 +2,7 @@
 categories = ["Travel"]
 date = 2020-05-05T21:00:00Z
 description = ""
-image = "/images/pexels-sunyu-kim-1544880.jpg"
+image = "/images/pexels-sunyu-kim-1544880-1.jpg"
 tags = ["Food", "Hiking", "Water"]
 title = "Best getaway spots for winter 2020"
 type = "featured"
