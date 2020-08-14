@@ -21,10 +21,6 @@ name = "Health"
 url = "/categories/health"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 5
