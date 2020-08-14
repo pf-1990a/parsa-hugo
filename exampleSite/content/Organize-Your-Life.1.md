@@ -1,9 +1,9 @@
 ---
 title: 'Destination: Seychelles'
-date: 2019-05-12T08:46:10+00:00
+date: 2019-05-12T08:46:10.000+00:00
 description: ''
 type: featured
-image: images/featured-post/post-2.jpg
+image: "/images/pexels-oliver-sjostrom-1078983.jpg"
 categories:
 - Life
 - Food

@@ -2,7 +2,7 @@
 categories = ["Food", "Travel"]
 date = 2020-01-30T22:00:00Z
 description = ""
-image = "/images/pexels-nick-bondarev-4329936.jpg"
+image = "/images/pexels-nick-bondarev-4329936-1.jpg"
 tags = ["Culture", "Milan", "Italy", "Europe"]
 title = "Top 5 reasons to visit Milan"
 type = "featured"
