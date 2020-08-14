@@ -858,3 +858,8 @@ blockquote {
 .logo {
   max-width: 70px !important;
 }
+
+/* For netlify forms */
+.hpot {
+  display: none;
+}
