@@ -44,8 +44,8 @@ home = "Home"
 layout = "1"
 logo = "images/logo.png"
 mobile = "+44 7510 654 237"
-preloader = true
-search = true
+preloader = false
+search = false
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 enable = true
