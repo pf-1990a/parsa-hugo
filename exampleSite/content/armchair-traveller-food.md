@@ -1,5 +1,5 @@
 +++
-categories = ["Travel", "Food"]
+categories = ["Food"]
 date = 2019-09-03T23:00:00Z
 description = ""
 image = "/images/pexels-rakicevic-nenad-1262302.jpg"
