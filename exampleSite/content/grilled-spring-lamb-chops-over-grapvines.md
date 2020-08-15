@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Food"]
 date = 2019-08-20T23:00:00Z
 description = ""
 image = "/images/lamb-1.jpg"
-tags = []
+tags = ["Lamb", "Recipe"]
 title = "Grilled spring lamb chops over grapvines"
 type = "post"
 
