@@ -4,7 +4,7 @@ date = 2020-07-21T21:00:00Z
 description = ""
 image = "/images/hero3a-1.jpg"
 tags = ["Kids", "Camping"]
-title = "Tips for camping with kids"
+title = "Survive camping with kids this summer"
 type = "post"
 
 +++
