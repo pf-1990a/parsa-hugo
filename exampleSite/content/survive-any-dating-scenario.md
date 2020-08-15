@@ -1,5 +1,5 @@
 +++
-categories = ["Health", "Life"]
+categories = ["Life"]
 date = 2020-04-16T23:00:00Z
 description = ""
 image = "/images/hero8-1.jpg"
