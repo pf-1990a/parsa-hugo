@@ -4,7 +4,7 @@ date = 2020-05-10T23:00:00Z
 description = "If you are looking some natural skin care tips, you have landed on the right page."
 image = "/images/pexels-elly-fairytale-3893754.jpg"
 tags = ["Beauty", "Skin", "Tips"]
-title = "Care for and maintenance for better skin"
+title = "Care and maintenance for better skin"
 type = "featured"
 
 +++
