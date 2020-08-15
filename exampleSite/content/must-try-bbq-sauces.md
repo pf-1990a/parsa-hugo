@@ -1,5 +1,5 @@
 +++
-categories = ["Food", "Health"]
+categories = ["Food"]
 date = 2020-07-30T23:00:00Z
 description = ""
 image = "/images/pexels-samer-daboul-2233729.jpg"
