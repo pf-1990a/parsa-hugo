@@ -5,11 +5,10 @@ description: ''
 type: featured
 image: "/images/pexels-oliver-sjostrom-1078983.jpg"
 categories:
-- Life
-- Food
 - Travel
 tags:
 - Photos
+- Food
 
 ---
 Seychelles a land of pristine beauty and a luxury destination which lies in the western part of the Indian Ocean. An archipelago of 115 islands, the island nation is known for its exquisite natural beauty, spectacular beaches, and luxury resorts. It is home to the world's oldest ocean islands and largest raised coral atoll.
