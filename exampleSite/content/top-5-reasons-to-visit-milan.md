@@ -1,9 +1,9 @@
 +++
-categories = ["Food", "Travel"]
+categories = ["Travel"]
 date = 2020-01-30T22:00:00Z
 description = ""
 image = "/images/pexels-nick-bondarev-4329936-1.jpg"
-tags = ["Culture", "Milan", "Italy", "Europe"]
+tags = ["Culture", "Milan", "Italy", "Europe", "Food"]
 title = "Destination: Milan"
 type = "featured"
 
