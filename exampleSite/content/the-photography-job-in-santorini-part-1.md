@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["Life", "Travel"]
 date = 2020-03-30T23:00:00Z
 description = ""
 image = "/images/sss.jpg"
-tags = []
+tags = ["Photography", "Greece", "Santorini", "Work", "Holiday"]
 title = "The photography job in Santorini - Part 1"
 type = "featured"
 
