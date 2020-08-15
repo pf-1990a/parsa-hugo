@@ -1,5 +1,5 @@
 +++
-categories = ["Food", "Health", "Life"]
+categories = ["Life"]
 date = 2020-01-06T00:00:00Z
 description = ""
 image = "/images/pexels-taryn-elliott-4231477.jpg"
