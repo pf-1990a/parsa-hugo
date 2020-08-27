@@ -2,6 +2,8 @@
   <meta charset="utf-8">
   <title>{{ .Site.Title }}</title>
 
+  <meta name="propeller" content="e5690b6a5a46f05401a559a5046ab777">
+
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
