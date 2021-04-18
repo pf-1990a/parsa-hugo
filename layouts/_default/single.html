@@ -1,5 +1,10 @@
 {{ define "main" }}
 
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{ .Params.Title }}"/>
+<meta property="og:image" content="http://www.besteverydayhealthandfitness.com.com/{{ .Params.Image | relURL }}"/>
+
+
 <!-- page-title -->
 <section class="section bg-secondary">
   <div class="container">
